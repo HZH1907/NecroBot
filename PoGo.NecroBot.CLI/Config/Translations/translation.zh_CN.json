@@ -6,15 +6,15 @@
     },
     {
       "Key": "greatPokeball",
-      "Value": "高级精灵球"
+      "Value": "高级球"
     },
     {
       "Key": "ultraPokeball",
-      "Value": "超级精灵球"
+      "Value": "超级球"
     },
     {
       "Key": "masterPokeball",
-      "Value": "大师精灵球"
+      "Value": "大师球"
     },
     {
       "Key": "wrongAuthType",
@@ -54,7 +54,7 @@
     },
     {
       "Key": "eventPokemonTransferred",
-      "Value": "{0}\t- CP值：{1}  完美度：{2}%  [已拥有 CP值：{3}  完美度：{4}%] （还有{5}颗糖果）"
+      "Value": "{0}\t- CP值：{1}  完美度：{2}%  [已拥有 CP值：{3}  完美度：{4}%] （拥有{5}颗糖果）"
     },
     {
       "Key": "eventItemRecycled",
@@ -79,6 +79,46 @@
     {
       "Key": "candies",
       "Value": "还有{0}颗糖果"
+    },
+    {
+      "Key": "commonWordPerfect",
+      "Value": "完美度"
+    },
+    {
+      "Key": "unhandledGpxData",
+      "Value": "无法使用GPX文件中的信息,已忽略."
+    },
+    {
+      "Key": "displayHighestsHeader",
+      "Value": "Pokemons"
+    },
+    {
+      "Key": "commonWordName",
+      "Value": "名称"
+    },
+    {
+      "Key": "displayHighestsCpHeader",
+      "Value": "CP排名"
+    },
+    {
+      "Key": "displayHighestsPerfectHeader",
+      "Value": "完美度排名"
+    },
+    {
+      "Key": "displayHighestsLevelHeader",
+      "Value": "强化等级排名"
+    },
+    {
+      "Key": "welcomeWarning",
+      "Value": "请确认经纬度正确,纬度: {0} 经度: {1},否则程序自动退出."
+    },
+    {
+      "Key": "incubatorPuttingEgg",
+      "Value": "将蛋放入孵化箱: 需要{0:0.00}km."
+    },
+    {
+      "Key": "incubatorStatusUpdate",
+      "Value": "孵化箱还需要: {0:0.00}km."
     }
   ]
 }
